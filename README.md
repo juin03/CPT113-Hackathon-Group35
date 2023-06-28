@@ -3,7 +3,7 @@
 ## 1.0 Game Description
 Unleash your courage in a thrilling race against time, as you delve into the enigmatic aftermath of an airplane crash. On a fateful Christmas eve, you were on your way home after a long year working abroad, eagerly anticipating the joyous reunion with your family. However, destiny had a different plan in store for you. Awaking amidst the forest with a throbbing pain in your head, the harsh reality sets in: your plane has crashed. Driven by an unwavering determination to reunite with your beloved family, you must navigate the treacherous terrain, face mysterious challenges, and discover the path to survival and escape.
 
-![MAP](https://github.com/juin03/CPT113_Hackathon2_-Group35-/blob/6d8a58628042896d153173d8573e780590fc46be/Screenshot%201.png)
+![MAP](https://github.com/juin03/CPT113-Hackathon-Group35/blob/f536607b8fe098f9f8eea93598e7630c1543227e/Screenshot/map.png)
 
 ## 2.0 Game Feature
 Gameplay Overview:
