@@ -140,9 +140,9 @@ b) Antibiotic: This buff will also increase your HP by 20 points.
 ![buff2-antibiotic](https://github.com/juin03/CPT113-Hackathon-Group35/blob/de2ef704b97d80be1c47b7807ec358d7e805610b/Screenshot/antibiotic.png)<br>
 
 3. Throughout the game, there are **TWO DEBUFFS** that you may come across:<br>
-a) Trap: This buff will decrease your HP by 10 points.
+a) Trap: This buff will decrease your HP by 10 points. In this case, the original HP is 50.
 ![debuff2-trap](https://github.com/juin03/CPT113-Hackathon-Group35/blob/de2ef704b97d80be1c47b7807ec358d7e805610b/Screenshot/trap.png)
-b) Snake: This buff will decrease your HP by 20 points.
+b) Snake: This buff will decrease your HP by 20 points. In this case, the original HP is 70.
 ![debuff1-snake](https://github.com/juin03/CPT113-Hackathon-Group35/blob/de2ef704b97d80be1c47b7807ec358d7e805610b/Screenshot/snake.png)
 
 4. In the game, there are **THREE ITEMS** that players can collect in their inventory:<br>
