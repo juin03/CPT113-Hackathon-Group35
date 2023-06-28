@@ -166,4 +166,4 @@ b) Exchanging the teddy for a radio with the villager's children.
 ![gameOver](https://github.com/juin03/CPT113-Hackathon-Group35/blob/de2ef704b97d80be1c47b7807ec358d7e805610b/Screenshot/gameOver.png)
 
 ## 7.0 A link to the game demo video.
-[(https://www.canva.com/design/DAFm57gklQI/as4KZNzdaLQTDGI18182kw/edit?utm_content=DAFm57gklQI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)]
+https://youtu.be/jTpLZwCkNAo
