@@ -43,23 +43,22 @@ Player has to collect and utilize various items and resources found throughout t
    - Read the descriptions carefully and make choices based on the available options.
    
 5. Collecting Inventories:
-   - While exploring, keep an eye out for inventories and items scattered throughout the crash site.
-   - Collect and add these items to your inventory.
-   - Inventories may help you overcome obstacles, heal, or unlock new paths and events.
+   - Collect and add items to your inventory throughout the map.
+   - Inventories may help you overcome obstacles or unlock new paths and events.
 
 6. Health Management:
    - Pay attention to your HP as it indicates your character's health.
    - Make wise decisions to avoid losing HP unnecessarily, as it may impact your ability to survive and progress.
 
 7. Escaping:
-   - Your main objective is to find a way to escape from the crash site.
+   - Your main objective is to find a way to escape from the forest.
    - Explore different places and unlock different ending based on the decision made throughout the journey.
 
 8. Saving Progress:
-   - Save your game progress at regular intervals to ensure you can resume from where you left off.
+   - Save your game progress after you quit to ensure you can resume from where you left off.
 
 9. Game Over and Victory:
-   - The game ends when you successfully escape from the crash site or if your HP reaches zero, resulting in a game over.
+   - The game ends when you successfully escape from the forest or if your HP reaches zero, resulting in a game over.
 
 
 ## 4.0 How object-oriented concepts were used to develop the game.
