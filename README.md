@@ -134,9 +134,9 @@ Below are the details explanation of how the linked list work in the game:
 ![map](https://github.com/juin03/CPT113-Hackathon-Group35/blob/de2ef704b97d80be1c47b7807ec358d7e805610b/Screenshot/map.png)<br>
 
 2. Throughout the game, there are **TWO BUFFS** that you may come across:<br>
-a) Freshwater: This buff will increase your HP by 10 points.
+a) Freshwater: This buff will increase your HP by 10 points. In this case, the original HP is 50.
 ![buff1-freshwater](https://github.com/juin03/CPT113-Hackathon-Group35/blob/de2ef704b97d80be1c47b7807ec358d7e805610b/Screenshot/water.png)<br>
-b) Antibiotic: This buff will also increase your HP by 20 points.
+b) Antibiotic: This buff will also increase your HP by 20 points. In this case, the original HP is 50.
 ![buff2-antibiotic](https://github.com/juin03/CPT113-Hackathon-Group35/blob/de2ef704b97d80be1c47b7807ec358d7e805610b/Screenshot/antibiotic.png)<br>
 
 3. Throughout the game, there are **TWO DEBUFFS** that you may come across:<br>
