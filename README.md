@@ -4,7 +4,6 @@
 Unleash your courage in a thrilling race against time, as you delve into the enigmatic aftermath of an airplane crash. On a fateful Christmas eve, you were on your way home after a long year working abroad, eagerly anticipating the joyous reunion with your family. However, destiny had a different plan in store for you. Awaking amidst the forest with a throbbing pain in your head, the harsh reality sets in: your plane has crashed. Driven by an unwavering determination to reunite with your beloved family, you must navigate the treacherous terrain, face mysterious challenges, and discover the path to survival and escape.
 
 ![MAP](https://github.com/juin03/CPT113_Hackathon2_-Group35-/blob/6d8a58628042896d153173d8573e780590fc46be/Screenshot%201.png)
-![test]([https://github.com/juin03/CPT113_Hackathon2_-Group35-/blob/6d8a58628042896d153173d8573e780590fc46be/Screenshot%201.png](https://github.com/juin03/CPT113-Hackathon-Group35/blob/main/Screenshot/antibiotic.png))
 
 ## 2.0 Game Feature
 Gameplay Overview:
@@ -131,5 +130,39 @@ Below are the details explanation of how the linked list work in the game:
 6. Memory Efficiency: Linked lists utilize memory efficiently by dynamically allocating memory for each element as needed. In the game, this means that memory is optimally utilized, as nodes are allocated only when items are added to the linked list. This memory efficiency ensures that the game can handle large or small numbers of events and inventory items without unnecessary memory consumption, promoting a smooth and responsive gameplay experience.
 
 ## 6.0 Screenshots of the game.
-![Screenshot](Screenshot 1.png)
+1. When compiling the program, you will be presented with two choices: to either load your previous progress or start a new game. After making your selection, the program will display the game's map and provide you with the background story, as well as instruct you on what to do next.
+![map](https://github.com/juin03/CPT113-Hackathon-Group35/blob/de2ef704b97d80be1c47b7807ec358d7e805610b/Screenshot/map.png)<br>
+
+2. Throughout the game, there are **TWO BUFFS** that you may come across:<br>
+a) Freshwater: This buff will increase your HP by 10 points.
+![buff1-freshwater](https://github.com/juin03/CPT113-Hackathon-Group35/blob/de2ef704b97d80be1c47b7807ec358d7e805610b/Screenshot/water.png)<br>
+b) Antibiotic: This buff will also increase your HP by 20 points.
+![buff2-antibiotic](https://github.com/juin03/CPT113-Hackathon-Group35/blob/de2ef704b97d80be1c47b7807ec358d7e805610b/Screenshot/antibiotic.png)<br>
+
+3. Throughout the game, there are **TWO DEBUFFS** that you may come across:<br>
+a) Trap: This buff will decrease your HP by 10 points.
+![debuff2-trap](https://github.com/juin03/CPT113-Hackathon-Group35/blob/de2ef704b97d80be1c47b7807ec358d7e805610b/Screenshot/trap.png)
+b) Snake: This buff will decrease your HP by 20 points.
+![debuff1-snake](https://github.com/juin03/CPT113-Hackathon-Group35/blob/de2ef704b97d80be1c47b7807ec358d7e805610b/Screenshot/snake.png)
+
+4. In the game, there are **THREE ITEMS** that players can collect in their inventory:<br>
+a) Axe
+![axe](https://github.com/juin03/CPT113-Hackathon-Group35/blob/de2ef704b97d80be1c47b7807ec358d7e805610b/Screenshot/axe.png)<br>
+b) Teddy
+![teddy](https://github.com/juin03/CPT113-Hackathon-Group35/blob/de2ef704b97d80be1c47b7807ec358d7e805610b/Screenshot/teddy.png)<br>
+c) Plank - ( requires the axe to obtain )
+![plank](https://github.com/juin03/CPT113-Hackathon-Group35/blob/de2ef704b97d80be1c47b7807ec358d7e805610b/Screenshot/plank.png)<br>
+
+5. **HINTS** can be obtained in the game to aid your progress.
+![letter](https://github.com/juin03/CPT113-Hackathon-Group35/blob/de2ef704b97d80be1c47b7807ec358d7e805610b/Screenshot/letter.png)<br>
+
+6. There are two **WINNING PATH** in the game<br>
+a) Building a boat to escape via the river.
+![win1-river](https://github.com/juin03/CPT113-Hackathon-Group35/blob/de2ef704b97d80be1c47b7807ec358d7e805610b/Screenshot/win-boat.png)<br>
+b) Exchanging the teddy for a radio with the villager's children.
+![win1-village](https://github.com/juin03/CPT113-Hackathon-Group35/blob/de2ef704b97d80be1c47b7807ec358d7e805610b/Screenshot/win-radio.png)
+
+7. **GAME OVER** when HP reaches or falls below zero.
+![gameOver](https://github.com/juin03/CPT113-Hackathon-Group35/blob/de2ef704b97d80be1c47b7807ec358d7e805610b/Screenshot/gameOver.png)
+
 ## 7.0 A link to the game demo video.
